@@ -1,7 +1,7 @@
 [package]
-name = "rust-template"
+name = "rust-near-smartcontract"
 version = "0.1.0"
-authors = ["Near Inc <hello@near.org>"]
+authors = ["K4rl1t0s"]
 edition = "2018"
 
 [lib]
