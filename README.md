@@ -1,5 +1,8 @@
-# Rust Smart Contract Template
+# Rust Smart Contract Project
 
+In this project we create, build, compile and deploy a smart contract with Rust and NEAR.  
+
+We will store a password in the blockchain using SHA256.
 ## Getting started
 
 1. Set up the [prerequisites](https://github.com/near/near-sdk-rs#pre-requisites)
